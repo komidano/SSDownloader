@@ -56,6 +56,8 @@ A MutationObserver clears the UI state whenever the active lesson changes.
 
 4. The UI will appear automatically under the class title.
 
+<img width="1916" height="924" alt="image" src="https://github.com/user-attachments/assets/c0933eca-6de8-4c30-8f0e-b0ca13c228e9" />
+
 ---
 
 ## 🚀 Usage
@@ -117,6 +119,7 @@ MIT License — free to modify, fork, and improve.
 ## ❤️ Credits
 
 Built by **Gumby**, who prefers elegant workflows over repetitive clicking.
+
 
 
 
