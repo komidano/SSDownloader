@@ -1,6 +1,6 @@
 # Skillshare Subtitle + Cloudflare Stream Downloader  
 ### Capture Cloudflare Stream HLS URLs and auto‑generate ffmpeg commands + subtitle downloader  
-**Version:** 4.1.0  
+**Version:** 1.0.1  
 **Author:** Gumby  
 
 ---
@@ -42,7 +42,7 @@ A MutationObserver clears the UI state whenever the active lesson changes.
 ## 📦 Installation
 
 1. Install a userscript manager:
-   - Violentmonkey (recommended)
+   - Violentmonkey (recommended, it was built for this one)
    - Tampermonkey
    - Greasemonkey
 
@@ -64,7 +64,7 @@ A MutationObserver clears the UI state whenever the active lesson changes.
 - Click a lesson so it begins loading.
 - The script detects the `.m3u8` URL.
 - Click **Get ffmpeg command**.
-- Copy/paste into your terminal:
+- Copy/paste into your terminal: (this is an example)
 
 ```
 ffmpeg -i "https://example.cloudflarestream.com/.../video.m3u8" -c copy "Lesson Title.mp4"
@@ -117,5 +117,6 @@ MIT License — free to modify, fork, and improve.
 ## ❤️ Credits
 
 Built by **Gumby**, who prefers elegant workflows over repetitive clicking.
+
 
 
