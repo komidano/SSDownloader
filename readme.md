@@ -11,6 +11,8 @@ This userscript enhances Skillshare class pages by automatically detecting Cloud
 
 The script **does not download video files itself** — it simply exposes the HLS stream URL and subtitles so you can handle them locally.
 
+##THIS IS NOT TO BE USED FOR PIRACY, For Educational Purposes ONLY and Support your content creators!
+
 ---
 
 ## ✨ Features
@@ -115,3 +117,4 @@ MIT License — free to modify, fork, and improve.
 ## ❤️ Credits
 
 Built by **Gumby**, who prefers elegant workflows over repetitive clicking.
+
